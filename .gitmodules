@@ -46,3 +46,30 @@
 [submodule "Limelighter"]
 	path = Limelighter
 	url = https://github.com/Tylous/Limelighter
+[submodule "Rubeus"]
+	path = Rubeus
+	url = https://github.com/GhostPack/Rubeus.git
+[submodule "mimikatz"]
+	path = mimikatz
+	url = https://github.com/gentilkiwi/mimikatz.git
+[submodule "PowerUpSQL"]
+	path = PowerUpSQL
+	url = https://github.com/NetSPI/PowerUpSQL.git
+[submodule "PowerTools"]
+	path = PowerTools
+	url = https://github.com/PowerShellEmpire/PowerTools
+[submodule "DotNetToJScript"]
+	path = DotNetToJScript
+	url = https://github.com/tyranid/DotNetToJScript.git
+[submodule "AlternativeShellcodeExec"]
+	path = AlternativeShellcodeExec
+	url = https://github.com/aahmad097/AlternativeShellcodeExec
+[submodule "SpoolSample"]
+	path = SpoolSample
+	url = https://github.com/leechristensen/SpoolSample
+[submodule "RdpThief"]
+	path = RdpThief
+	url = https://github.com/0x09AL/RdpThief
+[submodule "Powermad"]
+	path = Powermad
+	url = https://github.com/Kevin-Robertson/Powermad.git
