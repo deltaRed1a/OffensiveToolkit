@@ -1,0 +1,48 @@
+[submodule "OSEP-Code-Snippets"]
+	path = OSEP-Code-Snippets
+	url = https://github.com/chvancooten/OSEP-Code-Snippets.git
+[submodule "nishang"]
+	path = nishang
+	url = https://github.com/samratashok/nishang.git
+[submodule "PowerSploit"]
+	path = PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "Empire"]
+	path = Empire
+	url = https://github.com/BC-SECURITY/Empire.git
+[submodule "BloodHound"]
+	path = BloodHound
+	url = https://github.com/BloodHoundAD/BloodHound.git
+[submodule "kerberoast"]
+	path = kerberoast
+	url = https://github.com/nidem/kerberoast.git
+[submodule "SecLists"]
+	path = SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+[submodule "PEASS-ng"]
+	path = PEASS-ng
+	url = https://github.com/carlospolop/PEASS-ng.git
+[submodule "LinEnum"]
+	path = LinEnum
+	url = https://github.com/rebootuser/LinEnum.git
+[submodule "Windows-Exploit-Suggester"]
+	path = Windows-Exploit-Suggester
+	url = https://github.com/AonCyberLabs/Windows-Exploit-Suggester.git
+[submodule "chisel"]
+	path = chisel
+	url = https://github.com/jpillora/chisel.git
+[submodule "OffensivePipeline"]
+	path = OffensivePipeline
+	url = https://github.com/Aetsu/OffensivePipeline
+[submodule "Process-Hollowing"]
+	path = Process-Hollowing
+	url = https://github.com/m0n0ph1/Process-Hollowing
+[submodule "EvilClippy"]
+	path = EvilClippy
+	url = https://github.com/outflanknl/EvilClippy
+[submodule "Amsi-Bypass-Powershell"]
+	path = Amsi-Bypass-Powershell
+	url = https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell
+[submodule "Limelighter"]
+	path = Limelighter
+	url = https://github.com/Tylous/Limelighter
